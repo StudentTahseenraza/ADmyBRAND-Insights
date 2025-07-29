@@ -6,12 +6,6 @@ Welcome to the **ADmyBRAND Insights** project — a modern, visually stunning an
 
 ---
 
-## 🚀 Live Demo
-
-🔗 [View Live Dashboard](https://your-vercel-deployment-url.vercel.app)
-
----
-
 ## 📦 Features
 
 ### ✅ Core Features
